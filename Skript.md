@@ -5,9 +5,7 @@ Den Verkaufspreis legen wir auf CHF 6666 fest, da es sich um das sechs Jährige 
 Es soll inovativ sein und in der Stückzahl von 6666 gebaut werden. Dabei sollen natürlich die Wirtschaftlichen Grundsätze nicht verletzt werden.
 
 ##Morphologischer Kasten
-Damit wir nichts ausschliessen haben wir alle Parameter mit mehrere Optionen mit der "Brainstorming" Methode erfasst. Wir haben verschiedene Rahmen Materialien, Antriebskonzepte, Zubehör Teile uvm. Die Optionen . Um dann unsere vier möglichen Varianten zu eruieren wurden mit der Methode "Morphologischen Kasten" gearbeitet.
-
-Die einzelIn den Parametern eingetragen. Jedes Teammitglied erstellte ein eigene Bike.
+Damit wir nichts ausschliessen haben wir alle Parameter mit mehrere Optionen mit der "Brainstorming" Methode erfasst. Wir haben verschiedene Rahmen Materialien, Antriebskonzepte, Zubehör Teile uvm. gesammelt. Um dann unsere vier möglichen Varianten zu eruieren wurden mit der Methode "Morphologischen Kasten" gearbeitet. Jedes Teammitglied erstellte ein eigene Bike.
 
 Es resultierten folgende Vier Bikes:
 
@@ -17,8 +15,8 @@ Es resultierten folgende Vier Bikes:
 * Carbon MTB Fully
 
 ##Kostenaufstellung
-Die Kostenaufstellung zeigt uns das wir bei den Bewährten Konzepten, soweit voraussehbar, eine Marge haben, die die Wirtschaftlichen Regeln beachtet.
-Was hier auch auffällt das ein Biogas Bike für unser Jubiläums-Bike sehr teuer ist. Die Entwicklungskosten für die Limitierte Anzahl von Bikes würde den Gewinn komplett auffressen. Die Idee zum Projekt kann aber zu einem späteren Zeitpunkt sicher noch einmal aufgenommen werden wenn eine grössere Stückzahl produziert wird.
+Die Kostenaufstellung zeigt uns das wir bei den Bewährten Konzepten eine Marge haben, die die Wirtschaftlichen Regeln beachtet.
+Was hier auch auffällt ist das ein Biogas Bike für unser Jubiläums-Bike sehr teuer ist. Die Entwicklungskosten für die Limitierte Anzahl von Bikes würde den Gewinn komplett auffressen. Die Idee zum Projekt kann aber zu einem späteren Zeitpunkt sicher noch einmal aufgenommen werden wenn eine grössere Stückzahl produziert wird. Hier währe sicher auch noch eine Marktanalyse und weitere Abklärungen nötig.
 
 ##Nutzwertanalyse
 Für die definitive Auswahl wurde eine Nutzwertanalyse durchgeführt. 
